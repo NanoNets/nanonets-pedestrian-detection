@@ -24,13 +24,13 @@ Build a Pedestrian Detection Model
 [pip](https://pip.pypa.io/en/stable/installing/)
 
 <div align="center">
-    <img src="https://github.com/NanoNets/nanonets-pedestrian-detection-sample-python/blob/master/demo/output.gif" alt="pedestrian-detection-gif" width = "300"/>
+    <img src="https://github.com/NanoNets/nanonets-pedestrian-detection/blob/master/demo/output.gif" alt="pedestrian-detection-gif" width = "300"/>
 </div>
 
 ### Step 1: Clone the Repo, Install dependencies
 ```bash
-git clone https://github.com/NanoNets/nanonets-pedestrian-detection-sample-python.git
-cd nanonets-pedestrian-detection-sample-python
+git clone https://github.com/NanoNets/nanonets-pedestrian-detection.git
+cd nanonets-pedestrian-detection
 sudo pip install requests tqdm
 ```
 
