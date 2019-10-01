@@ -22,7 +22,7 @@ Build a Pedestrian Detection Model
 [pip](https://pip.pypa.io/en/stable/installing/)
 
 <div align="center">
-    <img src="https://github.com/NanoNets/nanonets-pedestrian-detection/blob/master/demo/crowd-gif-2.gif" alt="pedestrian-detection-gif" width = "300"/>
+    <img src="https://github.com/NanoNets/nanonets-pedestrian-detection/blob/master/demo/crowd-gif-2.gif" alt="pedestrian-detection-gif" width = "600"/>
 </div>
 
 ### Step 1: Clone the Repo, Install dependencies
