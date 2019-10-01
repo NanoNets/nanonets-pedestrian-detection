@@ -10,11 +10,9 @@
 
 ## Pedestrian Detection
 
-Images and annotations taken from [here](http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentreXVID.avi) and [here](http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentre-groundtruth.top)
+For the purpose of this project, we have only used 100 frames and their annotations instead of the entire video. The complete video can be found [here](http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentreXVID.avi) and the ground truths [here](http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentre-groundtruth.top)
 
 Annotations include bounding boxes for each image and have the same name as the image name. You can find the example to train a model in python, by updating the api-key and model id in corresponding file. There is also a pre-processed json annotations folder that are ready payload for nanonets api.
-
-For the purpose of this project, we have only used 100 frames and their annotations instead of the entire video. 
 
 ** **
 Build a Pedestrian Detection Model
